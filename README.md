@@ -1,4 +1,4 @@
-# ELEVATE-LABS-TASK-5
+# ELEVATE-LABS-TASK-6
 # 🧾 Online Sales Monthly Summary (SQL Practice)
 
 This project demonstrates simple SQL queries for analyzing online sales data. It includes table creation, sample data insertion, and monthly aggregation of sales revenue and order volume.
